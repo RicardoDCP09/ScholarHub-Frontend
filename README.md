@@ -39,17 +39,14 @@ _Vistas preliminares de la interfaz de usuario._
 
 | **Login** | **Dashboard Estudiante** |
 | :---: | :---: |
-| ![Login](./docs/login-mockup.png) | ![Dashboard](./docs/dashboard-mockup.png) |
+| ![Login](src/assets/LoginRegister.png) | ![Dashboard](src/assets/LandingPage.png) |
 | *Acceso seguro al sistema* | *Vista general de préstamos y avances* |
 
 | **Inventario** | **Seguimiento Tesis** |
 | :---: | :---: |
-| ![Inventario](./docs/inventario-mockup.png) | ![Tesis](./docs/tesis-mockup.png) |
+| ![Inventario](src/assets/Libros.png) | ![Tesis](src/assets/Tesis.png) |
 | *Catálogo de recursos disponibles* | *Línea de tiempo de entregas* |
 
-> *Nota: Las imágenes de los mockups deben estar en la carpeta `/docs` de tu repositorio.*
-
----
 
 ### 🗄️ Estructura de Datos (ERD)
 
