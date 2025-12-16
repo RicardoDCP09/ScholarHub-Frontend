@@ -37,10 +37,10 @@ El sistema está compuesto por 5 módulos clave diseñados para cubrir las neces
 
 _Vistas preliminares de la interfaz de usuario._
 
-| **Login** | **Dashboard Estudiante** |
+| **Pagina Principal** | **Login** |
 | :---: | :---: |
-| ![Login](src/assets/LoginRegister.png) | ![Dashboard](src/assets/LandingPage.png) |
-| *Acceso seguro al sistema* | *Vista general de préstamos y avances* |
+|  ![Dashboard](src/assets/LandingPage.png) |![Login](src/assets/LoginRegister.png) |
+| *Vista General al ingresar a la pagina* | *Acceso seguro al sistema* |
 
 | **Inventario** | **Seguimiento Tesis** |
 | :---: | :---: |
